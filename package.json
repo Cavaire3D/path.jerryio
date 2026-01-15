@@ -1,6 +1,6 @@
 {
   "name": "path.jerryio",
-  "version": "0.8.3",
+  "version": "0.10.0",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.0",
@@ -14,7 +14,7 @@
     "class-transformer": "^0.5.1",
     "class-validator": "^0.14.0",
     "classnames": "^2.3.2",
-    "dompurify": "^3.1.3",
+    "dompurify": "^3.2.5",
     "fast-sha256": "^1.3.0",
     "localforage": "^1.10.0",
     "mobx-react-lite": "^3.4.3",
@@ -67,10 +67,10 @@
     "react-app-alias": "^2.2.2",
     "react-scripts": "5.0.1",
     "remark-gfm": "^4.0.0",
-    "typescript": "^5.4.5"
+    "typescript": "^5.7.2"
   },
   "overrides": {
-    "typescript": "^5.4.5"
+    "typescript": "^5.7.2"
   },
   "scripts": {
     "start": "craco start",
